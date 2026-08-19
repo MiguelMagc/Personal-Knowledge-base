@@ -1,4 +1,28 @@
+🧠 Knowledge
+
+Conceptos técnicos que estudio y documento.
+
 1. ¿Qué es?
+    Definición
+    Un agente de Inteligencia Artificial (IA) es un sistema capaz de percibir información de su entorno, interpretar su estado, razonar sobre un objetivo, seleccionar y ejecutar acciones mediante herramientas,
+    y evaluar sus resultados para continuar actuando hasta alcanzar dicho objetivo o determinar que no puede hacerlo.
+
+    Un agente puede estar compuesto por:
+
+    Modelo de IA: interpreta información y participa en el razonamiento.
+    Objetivo: define qué se intenta conseguir.
+    Percepción: obtiene información del entorno.
+    Memoria: conserva información relevante del contexto o de experiencias anteriores.
+    Herramientas: permiten consultar datos o ejecutar acciones en sistemas externos.
+    Planificación: determina una secuencia de acciones para alcanzar el objetivo.
+    Estado: representa la situación actual del entorno y del proceso.
+    Mecanismo de ejecución: lleva a cabo las acciones seleccionadas.
+    Evaluación: comprueba los resultados y determina si debe continuar, corregir su estrategia o finalizar.
+
+    Idea clave    
+    Un modelo genera respuestas; un agente utiliza modelos, herramientas, memoria y mecanismos de decisión para alcanzar objetivos mediante acciones.
+      
+      
 2. ¿Por qué existe?
 3. ¿Qué problema resuelve?
 4. ¿Cómo funciona?
@@ -9,3 +33,15 @@
 9. ¿Cuáles son sus limitaciones?
 10. ¿Cómo puedo aplicarlo?
 11. ¿Puedo explicarlo con mis propias palabras?
+
+
+🧪 Experiments
+
+Implementaciones y pruebas para validar conceptos.
+
+🚀 Projects
+
+Sistemas completos donde aplico esos conocimientos.
+
+📚 Learning
+Qué estoy estudiando actualmente.
