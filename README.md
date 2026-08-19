@@ -1,47 +1,94 @@
-# Personal-Knowledge-base
-A personal knowledge base documenting concepts, insights, experiments, and practical learnings in AI, software engineering, and emerging technologies.
+# Sistema Personal de Conocimiento
 
+Sistema personal de conocimiento para aprender, comprender, documentar y aplicar conceptos de inteligencia artificial, desarrollo de software y tecnologías emergentes.
 
-# Personal Knowledge System
+## 🎯 Propósito
 
-A personal knowledge system for learning, understanding, documenting, and applying concepts in AI, software engineering, and emerging technologies.
+Este repositorio es mi base de conocimiento personal y un registro de mi proceso de aprendizaje.
 
-## Purpose
+El objetivo no es simplemente recopilar información, sino desarrollar una comprensión profunda de los conceptos y ser capaz de:
 
-This repository is my long-term knowledge base.
+- Explicarlos con mis propias palabras.
+- Comprender cómo funcionan.
+- Relacionarlos con otros conceptos.
+- Identificar cuándo y por qué utilizarlos.
+- Aplicarlos mediante experimentos y proyectos.
+- Explicarlos con claridad a otras personas.
 
-The goal is not simply to collect information, but to develop a deep understanding of technical concepts and be able to explain them clearly, connect them with related ideas, and apply them through practical experiments and projects.
+## 📚 Áreas de conocimiento
 
-## Areas of Knowledge
+### Inteligencia Artificial
+- Inteligencia Artificial
+- Aprendizaje Automático
+- Aprendizaje Profundo
+- Procesamiento del Lenguaje Natural
+- Modelos de Lenguaje (LLM)
+- IA Generativa
+- RAG
+- Agentes de IA
+- Sistemas Cognitivos
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Large Language Models
-- AI Agents
-- Cognitive Systems
-- Software Engineering
+### Desarrollo de Software
 - C#
 - .NET
+- ASP.NET Core
 - Entity Framework Core
-- APIs and Distributed Systems
-- Cloud and Azure
+- APIs
+- Arquitectura de Software
+- Sistemas Distribuidos
+- Patrones de Diseño
+
+### Cloud y Tecnologías Empresariales
+- Microsoft Azure
+- DevOps
 - Microsoft Dynamics 365 Business Central
-- Emerging Technologies
+- Integraciones empresariales
 
-## Knowledge Structure
+### Tecnologías Emergentes
+- IoT
+- Smart Home
+- Edge AI
+- Robótica
+- Automatización
 
-Each topic aims to answer:
+## 🧠 Cómo documento el conocimiento
 
-1. What is it?
-2. Why does it matter?
-3. How does it work?
-4. What are its fundamental concepts?
-5. How does it relate to other concepts?
-6. How can it be applied?
-7. What are its limitations?
-8. Can I explain it clearly?
-9. Can I demonstrate it with a practical example?
+Cada concepto busca responder preguntas como:
 
-## Repository Structure
+1. ¿Qué es?
+2. ¿Por qué existe?
+3. ¿Qué problema resuelve?
+4. ¿Cómo funciona?
+5. ¿Cuáles son sus conceptos fundamentales?
+6. ¿Cómo se relaciona con otros conceptos?
+7. ¿Cuándo debería utilizarlo?
+8. ¿Cuándo no debería utilizarlo?
+9. ¿Cuáles son sus limitaciones?
+10. ¿Cómo puedo aplicarlo?
+11. ¿Puedo explicarlo con mis propias palabras?
+
+## 🧪 Experimentos
+
+Los experimentos tienen como objetivo llevar los conceptos de la teoría a la práctica.
+
+Aquí se documentan pruebas, implementaciones, resultados, errores y conclusiones obtenidas durante el aprendizaje.
+
+## 🚀 Proyectos
+
+Los conocimientos adquiridos pueden convertirse posteriormente en proyectos prácticos.
+
+La relación buscada es:
+
+Conocimiento → Experimento → Proyecto → Aplicación
+
+## 📂 Estructura
+
+```text
+.
+├── Inteligencia-Artificial/
+├── Desarrollo-de-Software/
+├── Sistemas-Cognitivos/
+├── Cloud/
+├── Business-Central/
+├── Experimentos/
+└── Recursos/
