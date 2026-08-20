@@ -4,7 +4,8 @@ Conceptos técnicos que estudio y documento.
 
 1. ¿Qué es?
     Definición
-    Un agente de Inteligencia Artificial (IA) es un sistema capaz de percibir información de su entorno, interpretar su estado, razonar sobre un objetivo, seleccionar y ejecutar acciones mediante herramientas,
+    Un agente de Inteligencia Artificial (IA) es un sistema capaz de percibir información de su entorno, interpretar su estado, 
+    razonar sobre un objetivo, seleccionar y ejecutar acciones mediante herramientas,
     y evaluar sus resultados para continuar actuando hasta alcanzar dicho objetivo o determinar que no puede hacerlo.
 
     Un agente puede estar compuesto por:
