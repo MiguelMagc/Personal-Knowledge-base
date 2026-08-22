@@ -22,6 +22,16 @@ Conceptos técnicos que estudio y documento.
 
     Idea clave    
     Un modelo genera respuestas; un agente utiliza modelos, herramientas, memoria y mecanismos de decisión para alcanzar objetivos mediante acciones.
+
+    "Un sistema que intenta conseguir algo, no simplemente responder algo."    
+    Un modelo responde:    
+    ¿Qué debería decir?    
+    Un agente necesita responder:    
+    ¿Qué debería hacer ahora para acercarme al objetivo?    
+    Y después:    
+    ¿Funcionó lo que hice?    
+    Y después:    
+    ¿Qué hago ahora?
       
       
 2. ¿Por qué existe?
